@@ -1,1 +1,1 @@
-We have created a git rippo
+Mozdaher: Changed margin and padding of main body.
